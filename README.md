@@ -61,7 +61,7 @@ container. -->
 - clone este repositório ou o original do [Github do próprio
   Erick Wendel](https://github.com/ErickWendel/semana-javascript-expert06).
 
-`git clone https://github.com/rafaelreisramos/semana-javascript-expert-06`
+`git clone `
 
 - Instale as dependências com o npm
 

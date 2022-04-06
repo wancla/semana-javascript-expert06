@@ -25,7 +25,7 @@ run:
 - create heroku app
   - `heroku apps:create rafaelreisramos-spotify-radio`
 - add heroku remote repository
-  - `git remote add heroku https://git.heroku.com/rafaelreisramos-spotify-radio.git`
+  - `git remote add heroku https://github.com/wancla/semana-javascript-expert06`
 - check remote git repository
   - `git remote -v`
 - deploy our app as a container
@@ -38,7 +38,7 @@ run:
 - start app
   - `heroku open`
 - checking our logs
-  - `heroku logs -t -a rafaelreisramos-spotify-radio`
+  - `heroku logs -t -a wancla-spotify`
 
 ## Removing our app from heroku
 
